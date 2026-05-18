@@ -1,33 +1,9 @@
 Reflexión sobre mini-sitio comunitario – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
-
-Escribe una reflexión de 8 a 10 líneas respondiendo:
-
-¿Por qué un mini-sitio que consume una API puede ayudar a una comunidad a difundir información de forma responsable, organizada y verificable?
-
-En tu respuesta menciona al menos cinco de estas ideas:
-
-- proyecto único en GitHub
-- rama main
-- rama personal
-- git pull origin main
-- fast-forward
-- async
-- await
-- fetch
-- API
-- JSON
-- difusión responsable
-- planificación del calendario editorial
-- calendario editorial
-- revisión de fuentes
-- consistencia comunicativa
-- moderación editorial básica
-- lenguaje responsable y no estigmatizante
-- participación ciudadana
-- cultura de paz
+Nombre del estudiante: Shirley Casas
+Fecha: 17/05/2026
+Nombre de la rama: shirley_casas
 
 Respuesta:
+
+Un mini-sitio que consume una API ayuda a la comunidad porque permite compartir información organizada y verificable. El proyecto único en GitHub facilita el trabajo colaborativo mientras la rama main mantiene la versión principal estable. Cada estudiante trabaja en una rama personal para evitar errores y luego puede actualizar cambios usando git pull origin main y fast-forward. Además, el uso de async, await y fetch permite obtener datos desde la API de forma más clara y ordenada. La información viaja en formato JSON, lo que facilita mostrar mensajes y calendarios editoriales. También es importante la difusión responsable, la revisión de fuentes y la moderación editorial básica para evitar desinformación. El lenguaje responsable y no estigmatizante fortalece la cultura de paz y la participación ciudadana dentro de la comunidad digital.
