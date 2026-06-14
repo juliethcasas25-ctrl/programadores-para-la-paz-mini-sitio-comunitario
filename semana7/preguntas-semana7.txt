@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta: Una estructura que permite almacenar varios datos en una lista.
+
+Pregunta 2:
+Respuesta: GET.
+
+Pregunta 3:
+Respuesta: POST.
+
+Pregunta 4:
+Respuesta: Permitir que diferentes sistemas o aplicaciones intercambien información.

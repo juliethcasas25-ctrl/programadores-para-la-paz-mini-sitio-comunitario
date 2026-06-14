@@ -1,0 +1,10 @@
+La ruta POST /reportes permite registrar un nuevo reporte enviado por un usuario.
+
+Si se envía el siguiente JSON:
+
+{
+  "tipo": "Basuras",
+  "descripcion": "Se acumularon residuos en el parque principal."
+}
+
+El servidor responde con un mensaje indicando que el reporte fue registrado correctamente y devuelve los datos almacenados junto con un identificador.
