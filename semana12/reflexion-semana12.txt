@@ -1,0 +1,8 @@
+Durante este curso aprendi que la tecnologia puede ayudar a fortalecer la participacion ciudadana.
+Tambien comprendi la importancia de organizar la informacion mediante bases de datos.
+Aprendi a utilizar Git y GitHub para guardar y publicar mis trabajos.
+Conoci el uso de Node.js y Express para crear aplicaciones sencillas.
+Entendi la importancia de proteger los datos personales de los usuarios.
+Tambien aprendi sobre automatizacion y notificaciones para apoyar procesos comunitarios.
+Todo esto permite desarrollar plataformas mas utiles y seguras para la comunidad.
+Este curso me permitio comprender como la tecnologia puede apoyar la organizacion y la participacion ciudadana.
